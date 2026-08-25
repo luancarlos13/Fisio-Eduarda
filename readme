@@ -1,0 +1,109 @@
+# 🩺 Dra. Eduarda Fisio
+
+Landing page profissional desenvolvida para apresentar os serviços e a atuação da fisioterapeuta **Maria Eduarda da Fonseca Mendes Silva**, proporcionando aos visitantes uma experiência moderna, objetiva e intuitiva para conhecer sua formação, especialidades e entrar em contato para agendamentos.
+
+## 📌 Sobre o Projeto
+
+O projeto foi desenvolvido com o objetivo de criar uma presença digital profissional para a fisioterapeuta, reunindo em uma única página informações sobre sua trajetória acadêmica, áreas de atuação e formas de contato.
+
+A landing page apresenta uma estrutura organizada em seções, permitindo que o visitante navegue facilmente entre **Início, Sobre, Serviços e Contato**.
+
+O projeto também conta com um botão de contato direcionando o usuário para o **WhatsApp**, facilitando o processo de comunicação e agendamento.
+
+## 🎯 Objetivo
+
+Criar uma landing page profissional, responsiva e visualmente agradável para:
+
+- Apresentar a profissional e sua formação;
+- Destacar suas principais áreas de atuação;
+- Explicar os serviços oferecidos;
+- Facilitar o contato com potenciais pacientes;
+- Disponibilizar canais de comunicação de forma acessível;
+- Fortalecer a presença profissional no ambiente digital.
+
+## 🧩 Estrutura do Site
+
+### 🏠 Início
+
+Seção inicial desenvolvida para apresentar a profissional e sua proposta de atendimento, utilizando uma chamada voltada ao cuidado individualizado, movimento, funcionalidade, autonomia e qualidade de vida.
+
+Também possui um botão de ação direcionando o visitante para o WhatsApp.
+
+### 👩🏻‍⚕️ Sobre
+
+Apresenta informações profissionais e acadêmicas da fisioterapeuta, incluindo:
+
+- Formação em Fisioterapia pela Faculdade Nova Esperança (FACENE);
+- Mestrado em Ciências da Saúde pela Universidade Federal do Rio Grande do Norte (UFRN);
+- Formação em neuromodulação (ETCC);
+- Formação em Pilates Clínico.
+
+### 🩺 Serviços
+
+A página apresenta diferentes áreas de atuação da profissional:
+
+**🧠 Fisioterapia Neurofuncional**
+Atuação voltada à reabilitação de pacientes com alterações neurológicas, buscando melhorar funcionalidade, independência, equilíbrio, mobilidade e qualidade de vida.
+
+**👵🏻 Fisioterapia Geriátrica**
+Atendimento especializado ao público idoso, trabalhando aspectos como força muscular, equilíbrio, marcha, autonomia e prevenção de quedas.
+
+**🦴 Fisioterapia Traumato-Ortopédica**
+Reabilitação de lesões e disfunções musculoesqueléticas, com foco na recuperação dos movimentos, fortalecimento e retorno às atividades cotidianas.
+
+**🤸🏻‍♀️ Pilates**
+Utilização do Pilates como recurso terapêutico para trabalhar força, mobilidade, equilíbrio, coordenação, consciência corporal e funcionalidade.
+
+**🏠 Atendimento Domiciliar**
+Atendimento personalizado realizado no ambiente do próprio paciente, adaptando o tratamento à sua rotina e necessidades.
+
+**🎓 Docência em Fisioterapia**
+Atuação também na área acadêmica, contribuindo para a formação de futuros profissionais de Fisioterapia e aproximando conhecimento científico e prática clínica.
+
+## 📞 Contato
+
+A landing page disponibiliza diferentes canais para facilitar o contato:
+
+- 📱 Telefone;
+- 💬 WhatsApp;
+- 📧 E-mail;
+- 📸 Instagram.
+
+Além disso, o botão de **Agendamento pelo WhatsApp** proporciona um caminho rápido para o visitante entrar em contato.
+
+## 🛠️ Tecnologias
+
+- HTML5 🟧
+- CSS3 🟦
+- JavaScript 🟨
+- GitHub Pages 📍
+
+## 📱 Responsividade
+
+O projeto foi desenvolvido pensando em diferentes tamanhos de tela, proporcionando uma experiência adequada para usuários que acessam a página por:
+
+- 💻 Computadores;
+- 💻 Notebooks;
+- 📱 Smartphones;
+- 📱 Tablets.
+
+A estrutura responsiva permite que os conteúdos, imagens, textos e elementos de navegação se adaptem aos diferentes dispositivos.
+
+## ✨ Principais Características
+
+- ✅ Design profissional;
+- ✅ Interface intuitiva;
+- ✅ Navegação simples;
+- ✅ Estrutura de landing page;
+- ✅ Seções organizadas;
+- ✅ Apresentação profissional;
+- ✅ Cards de serviços;
+- ✅ Botão de contato via WhatsApp;
+- ✅ Links para redes sociais;
+- ✅ Layout responsivo;
+- ✅ Informações acadêmicas e profissionais;
+- ✅ Publicação através do GitHub Pages.
+
+## 🖇️ Links
+
+Deploy do Projeto: https://luancarlos13.github.io/Fisio-Eduarda/
