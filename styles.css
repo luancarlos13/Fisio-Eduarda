@@ -510,8 +510,8 @@ section {
 
 .sobre-image img {
     width: 100%;
-    height: 100%;
-    object-fit: cover;
+    height: auto;
+    display: block;
     transition: var(--transition);
 }
 
@@ -966,7 +966,7 @@ footer p:hover {
     }
 
     .sobre-image {
-        max-height: 400px;
+        max-height: none;
     }
 
     /* Contato em coluna única */
